@@ -6,7 +6,8 @@ Sample implementation of a Golang GraphQL server using gqlgen and Echo.
 ## Description
 
 We combined gqlgen, a GraphQL library, and Echo, a web framework, to build a GraqhQL server implemented in the Go language.
-[https://tech.fusic.co.jp/posts/2020-04-13-gqlgen-echo-sample/](https://tech.fusic.co.jp/posts/2020-04-13-gqlgen-echo-sample/)
+
+[https://tech.fusic.co.jp/posts/2020-04-12-gqlgen-echo-sample/](https://tech.fusic.co.jp/posts/2020-04-12-gqlgen-echo-sample/)
 
 ## Screen Shot
 
